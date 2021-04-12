@@ -1,1 +1,1 @@
-# Exercícios da Trybe
+# Exercícios da Tryber
